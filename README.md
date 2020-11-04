@@ -1,0 +1,2 @@
+# testFileAndFolderPermissions
+For WordPress Installations
